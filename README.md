@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vitalii</h1>
 <h3 align="center">A passionate C++/UE developer from Ukraine</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitalii-soroka" alt="vitalii-soroka" /></a> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vitalii-soroka&theme=juicyfresh&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 📫 How to reach me **vsoroka.dev@gmail.com**
 

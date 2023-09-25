@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vitalii</h1>
 <h3 align="center">A passionate C++/UE developer from Ukraine</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vitalii-soroka&theme=juicyfresh&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
-
 - 📫 How to reach me **vsoroka.dev@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -27,9 +21,11 @@
 
 
 <!--
-**vitalii-soroka/vitalii-soroka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![](https://komarev.com/ghpvc/?username=vitalii-soroka&color=green&style=flat)
-Here are some ideas to get you started:
+[![trophy](https://github-profile-trophy.vercel.app/?username=vitalii-soroka&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

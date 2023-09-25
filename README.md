@@ -20,10 +20,10 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vitalii-soroka&label=Profile%20views&color=green&style=flat" alt="vitalii-soroka" /> </p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vitalii-soroka&show_icons=true&locale=en" alt="vitalii-soroka" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitalii-soroka&show_icons=true&locale=en&layout=compact" alt="vitalii-soroka" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vitalii-soroka&label=Profile%20views&color=green&style=flat" alt="vitalii-soroka" /> </p>
 
 <!--
 **vitalii-soroka/vitalii-soroka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

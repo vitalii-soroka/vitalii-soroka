@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vitalii</h1>
-<h3 align="center">A passionate C++/UE developer from Ukraine</h3>
+<h3 align="center">A passionate game developer from Ukraine</h3>
 
 - 📫 How to reach me **vsoroka.dev@gmail.com**
 
